@@ -11,8 +11,7 @@ https://www.kaggle.com/competitions/playground-series-s4e7/data
 - [Modeling](#modeling)
 - [Evaluation](#evaluation)
 - [Results](#results)
-- [Contributing](#contributing)
-- [License](#license)
+ 
 
 ## Introduction
  The goal of this competition is to predict which customers respond positively to an automobile insurance offer.
