@@ -66,8 +66,6 @@ The models are evaluated using metrics such as:
 
 ## Results
 Progress: Initial model achieved 0.88569 score and the best score is 0.89692. 
-
-## Contributing
-Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
+ 
  
  
